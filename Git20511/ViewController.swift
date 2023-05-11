@@ -25,5 +25,9 @@ class ViewController: UIViewController {
 
         //C5
     }
+
+    deinit {
+        
+    }
 }
 
